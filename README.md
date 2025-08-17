@@ -90,6 +90,51 @@ Total Pasta collection for the day: 1250
    ./hotel
    ```
 
+## 📷 Sample Console Output  
+
+```
+     Quantity of items we have
+ Rooms Available : 10
+ Quantity of pasta : 15
+ Quantity of burger : 20
+ Quantity of noodles : 12
+ Quantity of shake : 18
+ Quantity of chicken-roll : 10
+
+
+             Please select from the menu option 
+
+1) Rooms
+2) Pasta
+3) Burger
+4) Noodles
+5) Shake
+6) Chicken-roll
+7) Information regarding sales and collection 
+8) Exit
+
+ Please Enter your choice: 2
+
+ Enter Pasta Quantity: 3
+ 3 pasta is the order!
+
+ Please Enter your choice: 7
+
+        Details of sales and collection
+
+ Number of rooms we had: 10
+ Number of rooms we gave for rent: 0
+ Remaining rooms: 10
+ Total rooms collection for the day: 0
+
+ Number of Pastas we had: 15
+ Number of Pastas we sold: 3
+ Remaining Pasta: 12
+ Total Pasta collection for the day: 750
+
+ Total Collection of the day: 750
+
+```
 ---
 
 ## 🛠️ Technologies Used
